@@ -1,0 +1,19 @@
+.title-text {
+  color: #fff;
+  text-align: left;
+  font-size: 72px;
+  font-size: 700;
+  width: 100%;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+.title-text-2 {
+  color: #fff;
+  font-size: 72px;
+  font-size: 700;
+  width: 100%;
+  position: absolute;
+  top: 20%;
+  left: 70%;
+}
